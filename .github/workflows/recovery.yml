@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECUPERAÇÃO_URL :  https://transfer.sh/get/aTeFqk/recovery.img
 
 jobs:
   build:
